@@ -6,7 +6,7 @@
 <form action="#" style="width: 700px"class="posisi";>
 <fieldset class="h"/>
 <table style="width: 600px;">
-<body style="background-color:white"> </body>
+<body style="background-color:blue"> </body>
 
 <tr>
 <td rowspan="10" width="100px">
@@ -41,6 +41,14 @@
 <tr>
 <td><b>AGAMA</b></td>
 <td>:   Islam</td>
+</tr>
+<tr>
+<td><b>Riwayat Pendidikan</b></td>
+<td>:   SMAN 1 Sragen</td>
+</tr>
+<tr>
+<td><b>Kesan Sebagai Mahasiswa</b></td>
+<td>:   Menambah kedisplinan</td>
 </tr>
 </body>
 </html>
